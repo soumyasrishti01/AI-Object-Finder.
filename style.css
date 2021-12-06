@@ -1,0 +1,36 @@
+body{
+    background-size: cover;
+    font-family: 'Readex Pro', sans-serif;
+}
+.heading{
+    width: 100%;
+    align-items: center;
+    margin: 0;
+}
+label{
+    color: black;
+    font-size: 12px;
+}
+.header{
+    color: white;
+    font-size: 20px;
+}
+input{
+    width: 500px;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+.start, button, button{
+    background-color: purple;
+    border: purple;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 15px;
+    padding-left: 15px;
+    border-radius: 5px;
+    color: white;
+}
+canvas{
+    border: 2px solid purple;
+    border-radius: 5px;
+}
